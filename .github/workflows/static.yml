@@ -57,6 +57,6 @@ jobs:
     # comma-separated string, send email to
     to: adc60849@gmail.com
     # from email name
-    from: Chris D.
+    from: Chris DevOps
 
 
